@@ -1,0 +1,38 @@
+{
+  "dna": "5f34550a61642e6484671b7b40ca1b6489efcb91",
+  "name": "#9",
+  "description": "Weird Eye Collection",
+  "image": "ipfs://QmdMetovstYH9FEBJi77ZXVszEBpNsnA1MCemcQxRG26CJ/9.png",
+  "edition": 9,
+  "date": 1636636477177,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "High"
+    }
+  ]
+}

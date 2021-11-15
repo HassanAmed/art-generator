@@ -1,0 +1,26 @@
+{
+  "name": "nft_art_engine",
+  "version": "0.0.1",
+  "description": "Layers based art generator based on canvas api.",
+  "main": "index.js",
+  "bin": "index.js",
+  "pkg": {
+    "assets": [
+      "layers/**/*",
+      "node_modules/**/*",
+      "src/**/*"
+    ]
+  },
+  "scripts": {
+    "build": "node index.js",
+    "generate": "node index.js",
+    "preview": "node utils/preview.js",
+    "pixelate": "node utils/pixelate.js",
+    "update_info": "node utils/update_info.js"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "canvas": "^2.8.0",
+    "sha1": "^1.1.1"
+  }
+}
